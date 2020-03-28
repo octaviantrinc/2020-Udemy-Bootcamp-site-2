@@ -1,0 +1,159 @@
+
+body {
+  margin: auto;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted;
+  border-width: thick;
+  border-bottom: 0;
+  color: #EAF6F6;
+  width: 30px;
+  margin: 60px auto;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.mountain {
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 2px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 14%;
+  bottom: 540px;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 70%;
+  bottom: 270px;
+}
+
+.name {
+  color: #66BFBF;
+  text-align: center;
+  margin-top: 170px;
+  margin-bottom: 0;
+  display: inline-block;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 300%;
+  font-weight: 600;
+}
+
+.title {
+  color: #66BFBF;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 120%;
+  font-weight: 300;
+
+}
+
+.middle-container {
+  background-color: #FCFEFE;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.chillies {
+  width: 120px;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer {
+  width: 120px;
+  float: right;
+  margin-left: 30px;
+}
+
+.myIcon {
+  width: 120px;
+  margin: 60px auto;
+}
+
+.copy {
+  padding: 60px 20px 20px 20px;
+  margin: 0;
+  color: #FCFEFE;
+  font-size: 0.7em;
+}
+
+a {
+  top: 40px;
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #11999E;
+  padding: 10px;
+}
+
+a:hover {
+  color: #FCFEFE
+}
+
+.btn {
+height: 15px;
+line-height: 10px;
+color: #FFFFFF;
+font-family: Open Sans;
+width: 90px;
+font-size: 13px;
+font-weight: 100;
+padding: 17px 15px 15px;
+background-color: #11999E;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+margin-bottom: 100px;
+margin-top: 0;
+}
+
+.btn:hover {
+background: #66BFBF;
+border: solid #66BFBF 0;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+text-decoration: none;
+}
